@@ -1,5 +1,5 @@
 \# Sistema de Login - POO com Java Swing + MySQL
-
+(Dupla Mario Junior e Luiz Felipe)
 
 
 Sistema simples de login, cadastro e recuperação de senha usando:
